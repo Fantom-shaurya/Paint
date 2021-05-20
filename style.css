@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+  
+}
+#mycanvas{
+    border: 8px ridge silver;
+    background-color: white;
+}
+#clear_btn{
+background-color: green;
+}
+.body_background {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
